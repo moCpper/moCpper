@@ -1,5 +1,6 @@
-## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/moCpper/github-readme-stats)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper;Second+line+of+text)
+https://img.shields.io/badge/%E8%AE%A8%E5%8E%8C-%E5%AD%A6%E4%B9%A0-blue
+
 <!--
 **moCpper/moCpper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
