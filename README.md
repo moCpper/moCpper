@@ -1,18 +1,13 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper)  
-![decription](https://img.shields.io/badge/code-Modern%20C++-blue)  
-![decription](https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-Modern%20C++-blue)  
-![decription](https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-ACG-red)
-<!--
-**moCpper/moCpper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper&font=Consolas)  
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=moCpper&show_icons=true&theme=tokyonight) 
+ 
+<a><img src="https://img.shields.io/badge/code-Modern%20C++-blue"></a>
+<a><img src="https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-Modern%20C++-blue"></a>
+<a><img src="https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-ACG-red"></a> 
+<a><img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E4%B8%8A%E8%BF%9B-red"></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://profile-counter.glitch.me/moCpper/count.svg)  
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=腹有诗书气自华&font=KaiTi&size=15) 
+
