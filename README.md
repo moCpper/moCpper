@@ -1,5 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper;Second+line+of+text)
-https://img.shields.io/badge/%E8%AE%A8%E5%8E%8C-%E5%AD%A6%E4%B9%A0-blue
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper)
+![decription](https://img.shields.io/badge/code-Modern%20C++-blue)
+![decription](https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-Modern%20C++-red)
+![decription](https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-ACG-red)
 
 <!--
 **moCpper/moCpper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
