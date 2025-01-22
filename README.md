@@ -9,5 +9,3 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/moCpper/count.svg)  
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=腹有诗书气自华&font=KaiTi&size=15) 
-
