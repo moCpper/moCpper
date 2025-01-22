@@ -1,6 +1,4 @@
-<div align="center">
-    ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper)
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=moCpper)
 ![decription](https://img.shields.io/badge/code-Modern%20C++-blue)
 ![decription](https://img.shields.io/badge/%E5%96%9C%E6%AC%A2-Modern%20C++-red)
 ![decription](https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-ACG-red)
